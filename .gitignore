@@ -1,0 +1,8 @@
+.env
+/src/vendor/
+/src/node_modules/
+/src/.env
+/src/storage/*.key
+/src/database/database.sqlite
+temp_auto_push.bat
+temp_interactive_push.bat
